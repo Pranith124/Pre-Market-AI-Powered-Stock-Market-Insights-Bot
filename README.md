@@ -38,7 +38,7 @@ Build a Telegram bot that automates the following:
 
 ## Work Flow
 
-<img src="app/assets/Work Flow.png" alt="Project Work Flow" width ="24" height="50" border="10"/>
+<img src="app/assets/Work Flow.png" alt="Project Work Flow" width ="100" height="100" border="10"/>
 
 
 ## Project Structure
