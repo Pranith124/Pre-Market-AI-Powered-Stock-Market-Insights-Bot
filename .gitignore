@@ -1,0 +1,40 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and runtime files
+*.log
+*.pid
+
+# Your bot's user data
+app/core/user_ids.json
+app/core/constaints.py
+
+
+# Python environment files
+*.env
+.env
+
+# Jupyter notebooks (optional)
+*.ipynb_checkpoints
+
+# Compiled C extensions (if any)
+*.so
+
+# Build folders (if using distutils, poetry, etc.)
+build/
+dist/
+*.egg-info/
